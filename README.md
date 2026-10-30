@@ -233,4 +233,4 @@ This repository serves as the official landing page for CA Anti-Spyware. The sof
 **Get the most recent version of CA Anti-Spyware today!**
 
 ---
-**Last updated:** 2026-10-30 18:28:01 UTC
+**Last updated:** 2026-10-30 22:50:58 UTC
